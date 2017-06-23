@@ -1,2 +1,2 @@
 # study
-study
+begin to study
