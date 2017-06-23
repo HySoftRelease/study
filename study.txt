@@ -1,3 +1,1 @@
-after pull
-
-do before fectch
+for fetch test finished.
