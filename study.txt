@@ -1,1 +1,3 @@
 after pull
+
+do before fectch
